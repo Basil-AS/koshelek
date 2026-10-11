@@ -13,6 +13,7 @@ local.properties
 
 # Android/Gradle build outputs
 .gradle/
+.kotlin/
 **/build/
 
 # Build, runtimes and package managers
